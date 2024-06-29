@@ -15,3 +15,5 @@ void *stack_pop(Stack *stack);
 void stack_clean(Stack *stack);
 
 #endif /* STACK_H */
+
+
